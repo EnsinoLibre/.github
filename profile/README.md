@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/ensinolibre-wordmark-dark.png">
-  <img src="../assets/ensinolibre-wordmark.png" alt="EnsinoLibre" width="440">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnsinoLibre/assets/main/wordmark-primary-dark.svg">
+  <img src="https://raw.githubusercontent.com/EnsinoLibre/assets/main/wordmark-primary-light.svg" alt="EnsinoLibre" width="440">
 </picture>
 
 <br><br>
@@ -35,7 +35,7 @@ We started with Iberian roots and we are built for classrooms everywhere. The so
 | [`blocks`](https://github.com/ensinolibre/blocks) | Reusable teaching components |
 | [`design-system`](https://github.com/ensinolibre/design-system) | Brand, tokens, and UI foundations |
 | [`docs`](https://github.com/ensinolibre/docs) | Guides for teachers and contributors |
-| [`website`](https://github.com/ensinolibre/website) | The public site at ensinolibre.org |
+| [ensinolibre.org](https://ensinolibre.org) | The public site (source repo is private) |
 | [`translations`](https://github.com/ensinolibre/translations) | Locale files and the translator workflow |
 | [`examples`](https://github.com/ensinolibre/examples) | Community worksheets to fork and adapt |
 

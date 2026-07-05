@@ -6,12 +6,13 @@ If you are looking for the product, start at [`core`](https://github.com/ensinol
 
 ## What is here
 
-- [`profile/README.md`](profile/README.md) — the org's public profile page
-- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) — how we treat each other
-- [`CONTRIBUTING.md`](CONTRIBUTING.md) — how to contribute, whether you write code, worksheets, or translations
-- [`SECURITY.md`](SECURITY.md) — how to report a security issue privately
-- [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) and [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) — the default templates used across the org
-- [`assets/`](assets/) — brand assets referenced by the profile page and other repos
+- [`profile/README.md`](profile/README.md), the org's public profile page
+- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md), how we treat each other
+- [`CONTRIBUTING.md`](CONTRIBUTING.md), how to contribute, whether you write code, worksheets, or translations
+- [`SECURITY.md`](SECURITY.md), how to report a security issue privately
+- [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) and [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md), the default templates used across the org
+
+Logo and brand files used to live here too. They now live in their own repo, [`assets`](https://github.com/ensinolibre/assets), so this repo can stay a clean, minimal front door for the org.
 
 ## Get help
 
